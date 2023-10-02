@@ -2,7 +2,7 @@
 ### Sou Riquelmo Medeiros, um estudante de ciência da computação e desenvolvedor web Front-end :D
  <div>
    <a href="https://github.com/RickM19">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RickM19&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=RickM19&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickM19&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
