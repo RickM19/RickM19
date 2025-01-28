@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil de Riquelmo Medeiros 😁
-### Sou Riquelmo Medeiros, um estudante de ciência da computação e desenvolvedor web Front-end :D
+### Sou Riquelmo Medeiros, um estudante de ciência da computação e desenvolvedor web.
  <div>
    <a href="https://github.com/RickM19">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RickM19&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
